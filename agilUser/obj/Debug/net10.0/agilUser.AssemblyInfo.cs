@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("agilUser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b480ee15c86e688edc7b955024f732685b60074")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdfe585c4688eab98179afa53c33407fb1c4daad")]
 [assembly: System.Reflection.AssemblyProductAttribute("agilUser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("agilUser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
